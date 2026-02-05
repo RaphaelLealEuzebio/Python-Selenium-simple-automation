@@ -1,0 +1,67 @@
+### Python / Venv ###
+# Ambiente virtual
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+include/
+
+# Byte-code / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+### FastAPI / Config ###
+# Arquivos de variáveis de ambiente (Segurança!)
+.env
+.flaskenv
+
+# Logs do servidor
+*.log
+
+### Selenium / WebDrivers ###
+# Drivers baixados manualmente (chromedriver, geckodriver, etc)
+*.exe
+*.dll
+*.so
+drivers/
+logs/
+ghostdriver.log
+
+# Screenshots de erro do Selenium
+screenshots/
+debug/
+
+### IDEs ###
+.vscode/
+.idea/
+*.swp
+*.swo
+
+### OS ###
+.DS_Store
+Thumbs.db
+
+### Zorin OS (Linux) Especificidades ###
+.DS_Store
+.directory
+.Trash-*
+*.fuse_hidden*
+*.nfs*
+
+### Selenium no Linux ###
+# O Selenium no Linux costuma criar perfis temporários de navegador
+/tmp/
+.com.google.Chrome.*
+.org.chromium.Chromium.*
+
+### Python Extras ###
+# Se você usar ferramentas de linting ou build no Zorin
+.cache/
+build/
+dist/
+*.egg-info/
