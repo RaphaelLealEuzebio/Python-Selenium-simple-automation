@@ -70,4 +70,4 @@ Resposta:JSON{
 ```
 ### ⚠️ [!IMPORTANT] Sincronia: O Selenium é executado de forma síncrona para fins de demonstração. Em cenários de alta demanda, recomenda-se o uso de BackgroundTasks do FastAPI ou sistemas de mensageria como Celery.
 
-## 👨‍💻 AutorRaphael Leal Euzebio Python Developer | Back-end | Automaçôes
+## 👨‍💻 Raphael Leal Euzebio Python Developer | Back-end | Automações
