@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="FastAPI + Selenium Automation Demo" />
+</p>
+
 # 🚀 FastAPI + Selenium Automation Demo
 Este projeto é uma API desenvolvida em FastAPI integrada ao Selenium, focada na automação de processos e integração entre sistemas. A aplicação recebe um termo via   requisição HTTP e orquestra uma automação real no navegador.
 
